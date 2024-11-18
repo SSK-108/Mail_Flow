@@ -11,7 +11,7 @@
     "Web App",
     "Mailing System"
   ],
-  "author": "Shubhram Singh, Piyush Kapoor",
+  "author": "Shubhram Singh",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.7"
